@@ -1,0 +1,115 @@
+/* @media (max-width: 700px){
+    .banner{
+        display: grid;
+        grid-template-columns: auto;
+    }
+} */
+
+div#header {
+    display: grid;
+    grid-template-columns: 20% 70% 10%;
+}
+.logo{
+    
+        width: 200px;
+   
+}
+#fitnesslogo{
+    height: 100%;
+    /* padding: 6px; */
+}
+#fitnesslogo img{
+    height: 94px;
+    width: 100px;
+    border: 5px solid black;
+    padding: -2px;
+}
+/* #navigations{
+    background-color: rgb(0, 0, 0);
+}
+#rightnavigations{
+    background-color: rgb(0, 0, 0);
+} */
+#navigationlist{
+    display: grid;
+    margin-top: 60px;
+    margin-left: 39px;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: #ececec;
+    padding: 14px; 
+    border-radius: 5px;
+
+}
+a.navilink {
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #7e7979;
+    text-decoration: none;
+    padding: 10px;
+}
+.navibtn{
+    list-style: none;
+}
+.navibtn a:hover{
+    background: rgb(194, 178, 178);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.firstpara{
+    margin-top: 0px;
+}
+.secondpara{
+    margin-top: 20px;
+}
+.pg2para1{
+    float: left;
+    margin-bottom: 24px;
+    width: 960px;
+}
+#pg2img1{
+    float: right;
+}
+.img2{
+    float: right;
+}
+.img3{
+   height: 300px;
+}
+.img4{
+    float: right;
+    height: 294px;
+}
+.img5{
+    float: right;
+    height: 147px;
+
+}
+#img6{
+    float: right;
+    height: 320px;
+}
+.ourlinks {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+.headingfooter {
+    text-align: center;
+    font-weight: 300;
+    font-family: inherit;
+}
+#footer {
+    color: black;
+    background-color: #f3f1f9;
+    padding: 10px;
+}
+.banner{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.listoffooter{
+    list-style: none;
+}
+#body{
+    margin: 0px;
+}
