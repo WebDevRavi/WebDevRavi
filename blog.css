@@ -4,7 +4,12 @@
         grid-template-columns: auto;
     }
 } */
+/* @media (max-width: 700px){
+    .img3{
+        height: 62px;
+    }
 
+} */
 div#header {
     display: grid;
     grid-template-columns: 20% 70% 10%;
@@ -76,12 +81,12 @@ a.navilink {
    height: 300px;
 }
 .img4{
-    float: right;
-    height: 294px;
+ 
+    height: 247px;
 }
 .img5{
-    float: right;
-    height: 147px;
+    
+    height: 56px;
 
 }
 #img6{
