@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WebDevRavi
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...html
+- 👀 I’m interested in ...web development and app devlopment
+- 🌱 I’m currently learning ...html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ravisolanki969197@gmail.com
 
