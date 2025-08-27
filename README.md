@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Solanki</h1>
-<h3 align="center">A B.Tech AIML student, 3D artist, and game developer exploring AI, coding, and creativity.A B.Tech AIML student, 3D artist, and game developer exploring AI, coding, and creativity.</h3>
+<h3 align="center">A B.Tech AIML student, 3D artist, and game developer exploring AI, coding, and creativity.</h3>
 
 - 🔭 I’m currently working on **Unity Rocket Game**
 
