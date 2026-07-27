@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Ravi%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20AIML%20Student%20|%203D%20Artist%20|%20Game%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+Coding+%26+Creativity;Building+Immersive+3D+Worlds+🌍;Currently+Crafting+a+Unity+Rocket+Game+🚀;Learning+C%2B%2B+%26+C%23+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+Coding+%26+Creativity;Building+Immersive+3D+Worlds;Currently+Crafting+a+Unity+Rocket+Game;Learning+C%2B%2B+%26+C%23+Every+Day" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=webdevravi&label=Profile%20Views&color=6c63ff&style=flat-square" alt="profile views"/>
@@ -30,7 +30,11 @@ fun_fact: "I turn code, cameras, and cinematic dreams into interactive worlds �
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,csharp,html,css,py,unity,blender,unrealengine,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,unity,blender,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
 </div>
 
