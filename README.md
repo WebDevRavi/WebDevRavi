@@ -1,25 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ravi Solanki</h1>
-<h3 align="center">A B.Tech AIML student, 3D artist, and game developer exploring AI, coding, and creativity.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Unity Rocket Game**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Ravi%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20AIML%20Student%20|%203D%20Artist%20|%20Game%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **C++ & c#**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+Coding+%26+Creativity;Building+Immersive+3D+Worlds+🌍;Currently+Crafting+a+Unity+Rocket+Game+🚀;Learning+C%2B%2B+%26+C%23+Every+Day" alt="Typing SVG" />
+</a>
 
-- 👯 I’m looking to collaborate on **Instagram**
+<img src="https://komarev.com/ghpvc/?username=webdevravi&label=Profile%20Views&color=6c63ff&style=flat-square" alt="profile views"/>
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+</div>
 
-- 📫 How to reach me **Ravisolanki969197@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravi solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi solanki" height="30" width="40" /></a>
-<a href="https://instagram.com/ravi_solanki_1567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_solanki_1567" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ravisolanki96911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ravisolanki96911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravi_bana_1567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravi_bana_1567" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+```yaml
+name: Ravi Solanki
+role: B.Tech AIML Student | 3D Artist | Game Developer
+currently_building: 🚀 Unity Rocket Game
+currently_learning: [C++, C#]
+looking_to_collaborate_on: Instagram content & creative dev projects
+reach_me_at: Ravisolanki969197@gmail.com
+fun_fact: "I turn code, cameras, and cinematic dreams into interactive worlds 🎬"
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevravi&show_icons=true&locale=en&layout=compact" alt="webdevravi" /></p>
+<br/>
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,csharp,html,css,py,unity,blender,unrealengine,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🎮 What I'm Building
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 Unity Rocket Game
+Currently in active development — a physics-driven rocket simulation built in Unity, blending precise control systems with immersive 3D environments.
+
+</td>
+<td width="50%">
+
+### 🎨 Blender + Game Dev
+Merging 3D art with interactive systems — exploring cinematic aesthetics, lighting, and world-building across Unity and Unreal.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevravi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevravi&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ravi-solanki" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/ravi_solanki_1567" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/ravisolanki96911" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/ravi_bana_1567" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:Ravisolanki969197@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
