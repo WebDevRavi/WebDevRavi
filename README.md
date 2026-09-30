@@ -44,13 +44,20 @@ fun_fact: "I turn code, cameras, and cinematic dreams into interactive worlds �
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="33%">
+
+### 🌌 Blue 3D Studio
+An interactive 3D WebGL / Three.js portfolio world featuring retro pixel-art characters, retro soundscapes, and creative engineering showcases.  
+👉 [View Project](https://github.com/WebDevRavi/ravi-solanki-portfolio)
+
+</td>
+<td width="33%">
 
 ### 🚀 Unity Rocket Game
 Currently in active development — a physics-driven rocket simulation built in Unity, blending precise control systems with immersive 3D environments.
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🎨 Blender + Game Dev
 Merging 3D art with interactive systems — exploring cinematic aesthetics, lighting, and world-building across Unity and Unreal.
