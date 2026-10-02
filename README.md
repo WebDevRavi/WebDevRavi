@@ -1,65 +1,58 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ravi%20Solanki%20⚡&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Technologist%20·%203D%20Artist%20·%20Game%20Systems%20Engineer&descAlignY=56&descSize=19" width="100%" alt="Ravi Solanki Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Ravi%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20AIML%20Student%20|%203D%20Artist%20|%20Game%20Developer&descAlignY=55&descSize=18" width="100%" alt="Ravi Solanki Header"/>
 
-<!-- Animated Typing Subtitle -->
+<!-- Typing Subtitle -->
 <a href="https://github.com/WebDevRavi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Immersive+3D+WebGL+Worlds;Creative+Technologist+%26+Game+Systems+Engineer;Crafting+Next.js+15+%26+Three.js+Architectures;Developing+Physics+Engines+%26+Procedural+Audio;Exploring+Real-Time+Graphics+and+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Exploring+AI%2C+Coding+%26+Creativity;Building+Immersive+3D+Worlds;Currently+Crafting+a+Unity+Rocket+Game;Learning+C%2B%2B+%26+C%23+Every+Day" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/WebDevRavi"><img src="https://img.shields.io/badge/Focus-3D%20Graphics%20%26%20Game%20Dev-6C63FF?style=for-the-badge&logo=three.js&logoColor=white" alt="Focus"/></a>
-  <a href="https://github.com/WebDevRavi"><img src="https://img.shields.io/badge/Degree-B.Tech%20AIML-00D26A?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Degree"/></a>
-  <a href="mailto:ravisolanki969197@gmail.com"><img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-FF6B6B?style=for-the-badge" alt="Status"/></a>
-  <img src="https://komarev.com/ghpvc/?username=webdevravi&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20AIML-00D26A?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-Game%20Dev%20%26%203D%20Art-6C63FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-FF6B6B?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=webdevravi&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Profile Views"/>
 </p>
 
 </div>
 
 <br/>
 
-## 🎮 Character Sheet & Engineering HUD
+## 🧑‍💻 About Me
 
-```text
-╭───────────────────────────────── SYSTEM HUD ─────────────────────────────────╮
-│ 👤 OPERATOR  : Ravi Solanki (@WebDevRavi)                                    │
-│ 🕹️ CLASS     : Creative Technologist · 3D Graphics & Game Engine Developer   │
-│ 🎓 DISCIPLINE: B.Tech Computer Science & AI/ML                               │
-│ 🔋 HP        : [████████████████████] 100/100 (Full-Stack & Systems Grit)     │
-│ 🔮 MANA      : [██████████████████░░] 94/100  (Creative & 3D Mathematical Flow│
-│ ⚔️ ATTACK    : WebGL 2.0 · Three.js · C++ · Unity · Next.js 15 · TypeScript  │
-│ 🛡️ DEFENSE   : 60 FPS Frame Budgets · Zero Hydration Glitches · Clean Memory │
-│ 🎯 MAIN QUEST: Crafting spatial, weightless, interactive 3D web runtimes      │
-│ 📍 LOCATION  : India · Worldwide Remote                                       │
-│ 📬 CONTACT   : ravisolanki969197@gmail.com                                   │
-╰──────────────────────────────────────────────────────────────────────────────╯
+```yaml
+name: Ravi Solanki
+role: B.Tech AIML Student | 3D Artist | Game Developer
+currently_building: 🚀 Unity Rocket Game & 🌌 Blue 3D Studio
+currently_learning: [C++, C#, Data Structures & Algorithms]
+interests: [Game Development, 3D Art & Blender, Web Development, AI/ML]
+reach_me_at: ravisolanki969197@gmail.com
+fun_fact: "I turn code, cameras, and creative ideas into interactive worlds 🎬"
 ```
 
 <br/>
 
-## 🚀 Featured Masterpieces
+## 🎮 What I'm Building
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🌌 [Blue 3D Studio & Portfolio](https://github.com/WebDevRavi/ravi-solanki-portfolio)
-An interactive 3D WebGL world built on Three.js and Next.js 15 App Router. Features custom retro pixel-art characters, a procedural Web Audio sound synthesizer, dynamic lighting shaders, and integrated playable arcade stations.
+An interactive 3D WebGL world built with Three.js and Next.js. Features retro pixel-art characters, retro soundscapes, dynamic lighting, and integrated playable arcade stations.
 
-- **Stack**: `Next.js 15` · `Three.js` · `TypeScript` · `Tailwind CSS` · `Web Audio API`
-- **Engineering Highlights**: 60 FPS tick loop, camera follow with configurable deadzone, automated SEO sitemap/robots, strict zero hydration mismatches.
-- 👉 **[Explore Repository](https://github.com/WebDevRavi/ravi-solanki-portfolio)** · **[Setup Guide](https://github.com/WebDevRavi/ravi-solanki-portfolio#readme)**
+- **Stack**: `Next.js` · `Three.js` · `TypeScript` · `Tailwind CSS`
+- 👉 **[Explore Project](https://github.com/WebDevRavi/ravi-solanki-portfolio)**
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ [Type Dash](https://github.com/WebDevRavi/Type_Dash)
-A fast-paced retro typing arcade game written in TypeScript. Features real-time keystroke telemetry, precision WPM calculation, accuracy percentage tracking, and custom audio feedback on combos.
+A fast-paced retro typing arcade game written in TypeScript. Features real-time keystroke telemetry, precision WPM calculation, accuracy tracking, and retro audio feedback.
 
-- **Stack**: `TypeScript` · `HTML5 Canvas` · `Web Audio API` · `High-Res Timers`
-- **Engineering Highlights**: Frame-independent update cadence, zero external dependencies, arcade CRT-style visual styling.
-- 👉 **[Explore Repository](https://github.com/WebDevRavi/Type_Dash)**
+- **Stack**: `TypeScript` · `HTML5 Canvas` · `Web Audio`
+- 👉 **[Explore Project](https://github.com/WebDevRavi/Type_Dash)**
 
 </td>
 </tr>
@@ -67,21 +60,19 @@ A fast-paced retro typing arcade game written in TypeScript. Features real-time 
 <td width="50%" valign="top">
 
 ### 🌀 [VortexGlide](https://github.com/WebDevRavi/VortexGlide)
-High-speed procedural 3D tunnel runner and flight prototype. Implements dynamic banking physics, reactive obstacle collision detection, procedural velocity increases, and 60 FPS camera interpolation.
+High-speed procedural 3D tunnel runner and flight prototype. Implements dynamic banking physics, reactive obstacle collision detection, and smooth camera movement.
 
-- **Stack**: `JavaScript` · `Three.js` · `WebGL` · `3D Vector Mathematics`
-- **Engineering Highlights**: Custom particle exhaust trails, responsive keyboard/touch steering, procedural cylinder mesh deformation.
-- 👉 **[Explore Repository](https://github.com/WebDevRavi/VortexGlide)**
+- **Stack**: `JavaScript` · `Three.js` · `WebGL`
+- 👉 **[Explore Project](https://github.com/WebDevRavi/VortexGlide)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [Unity Rocket Simulation](https://github.com/WebDevRavi)
-A physics-driven lunar lander and rocket maneuvering system developed in Unity. Features realistic inertia modeling, dual-axis vector thrust, fuel mechanics, and modular obstacle courses.
+### 🚀 [Unity Rocket Game](https://github.com/WebDevRavi)
+A physics-driven rocket simulation developed in Unity with realistic inertia modeling, dual-axis vector thrust, and modular obstacle hazards.
 
-- **Stack**: `Unity` · `C#` · `Blender` · `Shader Graph` · `Particle Systems`
-- **Engineering Highlights**: Custom rigidbody thrust vectoring, dynamic collision dampening, procedural combustion particles.
-- 👉 **[View Game Dev Series](https://github.com/WebDevRavi)**
+- **Stack**: `Unity` · `C#` · `Blender`
+- 👉 **[View Project](https://github.com/WebDevRavi)**
 
 </td>
 </tr>
@@ -89,55 +80,44 @@ A physics-driven lunar lander and rocket maneuvering system developed in Unity. 
 
 <br/>
 
-## 🛠️ The Tech Arsenal
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-### 🎨 3D Graphics & Game Engines
-<a href="https://github.com/WebDevRavi">
-  <img src="https://skillicons.dev/icons?i=threejs,unity,blender,cs,cpp&theme=dark" alt="3D & Game Engines"/>
-</a>
+### 🎮 Game Dev & 3D Art
+<img src="https://skillicons.dev/icons?i=unity,blender,cs,cpp,c&theme=dark" alt="Game Dev & 3D Art" />
 <br/>
-<img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
-<img src="https://img.shields.io/badge/WebGL%202.0-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL 2.0"/>
-<img src="https://img.shields.io/badge/Web%20Audio%20API-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Web Audio API"/>
-<img src="https://img.shields.io/badge/GLSL%20Shaders-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 
 <br/><br/>
 
-### 💻 Frontend & Spatial Web Architecture
-<a href="https://github.com/WebDevRavi">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs&theme=dark" alt="Frontend & Web Stack"/>
-</a>
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Web Development" />
 
 <br/><br/>
 
-### ⚙️ Systems, Scripting & Creative Tools
-<a href="https://github.com/WebDevRavi">
-  <img src="https://skillicons.dev/icons?i=py,c,git,github,vscode,figma&theme=dark" alt="Tools & Workflow"/>
-</a>
+### ⚙️ Programming & Tools
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="Programming & Tools" />
 
 </div>
 
 <br/>
 
-## 📊 Live Command Center & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
 <a href="https://github.com/WebDevRavi">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=webdevravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="WebDevRavi's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/WebDevRavi">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevravi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevravi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
 <a href="https://github.com/WebDevRavi">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevravi&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </a>
@@ -146,41 +126,21 @@ A physics-driven lunar lander and rocket maneuvering system developed in Unity. 
 
 <div align="center">
 
-<!-- LeetCode Live Card -->
 <a href="https://leetcode.com/ravi_bana_1567" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/ravi_bana_1567?theme=radical&font=Fira%20Code" alt="Ravi's LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/ravi_bana_1567?theme=radical&font=Fira%20Code" alt="LeetCode Stats"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🐍 Live Contribution Stream
-
-<p align="center">
-  <em>Daily automated run via GitHub Actions — animated snake consuming real-time contributions</em>
-</p>
+## 🐍 Contribution Stream
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/WebDevRavi/WebDevRavi/output/github-contribution-grid-snake-dark.svg" alt="Ravi's GitHub Contribution Snake" width="100%" />
 
 </div>
-
-<br/>
-
-## 💻 Developer Terminal
-
-```bash
-ravi@studio:~$ curl -s https://api.github.com/users/WebDevRavi | jq '{login, public_repos, followers}'
-{
-  "login": "WebDevRavi",
-  "identity": "Ravi Solanki",
-  "focus": "3D Graphics, Game Development & Interactive Web Engineering",
-  "email": "ravisolanki969197@gmail.com",
-  "status": "Ready for high-impact creative engineering and game development roles"
-}
-```
 
 <br/>
 
@@ -212,7 +172,6 @@ ravi@studio:~$ curl -s https://api.github.com/users/WebDevRavi | jq '{login, pub
 
 <br/>
 
-<!-- Footer Accent -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave"/>
